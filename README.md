@@ -11,7 +11,7 @@ Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orienta
 - 🔍 Explorando criação de **Plataformas SaaS**, **Aplicações Desktop** e **Websites de Alto Desempenho**  
 - 🔨 Sempre construindo e evoluindo novos projetos
 - 💡 Sempre aprendendo novas tecnologias e aplicando em projetos reais  
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucasanael) | [X (Twitter)](https://x.com/lucasanaell)
+- 📫 Como me encontrar: [Instagram](https://www.instagram.com/llucasanael/) | [X (Twitter)](https://x.com/lucasanaell)
 
 ---
 
