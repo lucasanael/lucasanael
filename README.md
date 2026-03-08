@@ -1,6 +1,6 @@
-<!-- Banner opcional (pode trocar por uma imagem sua ou ilustrativa de IA/Dev) -->
+<!-- Banner opcional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e79a7,100:f28e2b&height=180&section=header&text=Lucas%20Anael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:4facfe&height=180&section=header&text=Lucas%20Anael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
@@ -28,6 +28,7 @@ Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orienta
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f28e2b,100:4e79a7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:0F2027&height=120&section=footer"/>
 </p>
