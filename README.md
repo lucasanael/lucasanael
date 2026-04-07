@@ -1,6 +1,6 @@
 <!-- Banner opcional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:4facfe&height=180&section=header&text=Lucas%20Anael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Lucas%20Anael&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=35&font=Montserrat"/>
 </p>
 
 ---
@@ -30,5 +30,5 @@ Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orienta
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:0F2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
 </p>
